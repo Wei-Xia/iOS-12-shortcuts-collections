@@ -20,5 +20,5 @@ Choose whichever language you are conformable with, I will do the translation du
 | delete-last-photo         | 删除相册中最新的一张照片     | delete the last photo in your photo library     |
 | photo-to-grid         | 多张照片组成一张     | convert multiple photo into one photo     |
 | translate-clipboard         |  将剪贴板的内容翻译    |  translate the context in clipboard into other language    |
-|          |      |      |
+| download-app-icon         | 搜索 app 名字，下载其图标    |  Search app name and download its icon     |
 |          |      |      |
