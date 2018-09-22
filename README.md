@@ -11,3 +11,10 @@ Choose whichever language you are conformable with, I will do the translation du
 如果你有任何想要分享的捷径，请用 PR 的形式来贡献，在 PR 里也附上该捷径的介绍。
 
 选择任何你觉得舒适的语言，我会在合并的时候做翻译工作。
+
+# Shortcuts / 捷径
+| 名称 / Name| 介绍 | Description |
+|----------|------|------|
+| instagram-image-download         | 复制 instagram 链接，下载图片     |  copy instagram url, download the pic    |
+|          |      |      |
+|          |      |      |
