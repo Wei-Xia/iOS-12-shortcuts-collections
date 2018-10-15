@@ -6,7 +6,7 @@ If you have any shortcuts want to share, please open a Pull Request with shortcu
 Choose whichever language you are comfortable with, I will do the translation after the merge.
 
 # iOS 12 捷径分享
-这是代码库是 iOS 12 捷径的集合，每个人都非常欢迎分享自己或者公众的捷径到这里来。
+这代码库是 iOS 12 捷径的集合，每个人都非常欢迎分享自己或者公众的捷径到这里来。
 
 如果你有任何想要分享的捷径，请用 PR 的形式来贡献，在 PR 里也附上该捷径的介绍。
 
