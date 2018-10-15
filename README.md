@@ -3,7 +3,7 @@ This repository is a collection of iOS 12 shortcuts. Everyone is extremely welco
 
 If you have any shortcuts want to share, please open a Pull Request with shortcut original file, also add the shortcut description into that PR. 
 
-Choose whichever language you are conformable with, I will do the translation during the merge.
+Choose whichever language you are comfortable with, I will do the translation after the merge.
 
 # iOS 12 捷径分享
 这是代码库是 iOS 12 捷径的集合，每个人都非常欢迎分享自己或者公众的捷径到这里来。
