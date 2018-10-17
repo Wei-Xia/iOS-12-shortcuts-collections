@@ -28,10 +28,10 @@ Choose whichever language you are comfortable with, I will do the translation af
 
 ---
 
-## 开始使用
-
-点击进入你想使用的捷径，复制「View Raw」或者「Download」的路径，在 iPhone Safari 中打开，就会自动跳转到 shortcut 应用程序中打开了。
-
 ## Get Started
 
 Click the shortcut you wan to use, and copy the URL from View Raw or Download. Open the URL on Safari from your iPhone, and it will automatically open Shortcut App to open this shortcut you chosen.
+
+## 开始使用
+
+点击进入你想使用的捷径，复制「View Raw」或者「Download」的路径，在 iPhone Safari 中打开，就会自动跳转到 shortcut 应用程序中打开了。
