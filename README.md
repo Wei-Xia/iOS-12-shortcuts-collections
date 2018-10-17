@@ -22,3 +22,4 @@ Choose whichever language you are comfortable with, I will do the translation af
 | translate-clipboard         |  将剪贴板的内容翻译    |  translate the context in clipboard into other language    |
 | download-app-icon         | 搜索 app 名字，下载其图标    |  Search app name and download its icon     |
 | break         | 输入休息时间，开启勿扰模式，时间到后自动关闭    |  Enter break minutes, and turn on DO NOT DISTURB mode based on minutes you entered       |
+| get-ip-info         | 获取当前和VPN下的 IP 地址和位置   |  Get device and VPN ip address and location |
